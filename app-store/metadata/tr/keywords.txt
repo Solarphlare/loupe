@@ -1,0 +1,1 @@
+parmakizi,izleme,profilleme,cihaz,tanımlayıcı,bilgi,metadata,izin,sensör,IDFA,güvenlik,gizlilik

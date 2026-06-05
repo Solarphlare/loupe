@@ -1,0 +1,25 @@
+Já se perguntou como os anunciantes reconhecem você entre apps e sites? Geralmente é por fingerprinting: pequenos detalhes comuns do seu dispositivo, combinados até a mistura ficar rara o bastante para apontar de volta para você.
+
+O Loupe deixa você ver esses detalhes por conta própria. Ele lê as mesmas APIs públicas do iOS que apps de terceiros usam, mostrando os dados brutos e explicando por que importam.
+
+O QUE VOCÊ PODE EXPLORAR
+Os rastreadores não precisam do seu nome, e-mail ou localização para reconhecer você. Sua região, idiomas, ajustes, armazenamento e sensores criam um padrão distinto o bastante para seguir você na internet. O Loupe reúne essas leituras em um só lugar para você ver exatamente o que está compartilhando.
+
+TRÊS NÍVEIS DE ACESSO
+O Loupe organiza cada leitura pelo nível de acesso que ela exige:
+
+- Passiva: legível por qualquer app sem nenhum aviso, do seu fuso horário e idiomas de teclado à bateria e ao armazenamento.
+- Requer permissão: leituras que disparam um aviso do iOS, como localização, contatos, fotos e movimento.
+- Avançada: canais laterais que as APIs públicas permitem, como verificar quais apps você tem instalados, checagens de gráficos em um navegador oculto e um registro que sobrevive à reinstalação do app.
+
+NADA SAI DO SEU IPHONE
+O Loupe lê tudo no seu dispositivo e mantém ali. Nada é enviado, sincronizado ou compartilhado, a menos que você mesmo exporte. Não há contas nem análises.
+
+ALGUMAS COISAS PARA VER
+- A região, os idiomas e os ajustes que indicam onde você mora e viaja
+- Detalhes de tela, gráficos, armazenamento e bateria
+- O nome de um acessório pareado, que muitas vezes revela o seu próprio nome
+- Quais apps populares você tem instalados, descobertos sem nenhuma permissão
+- O segundo exato em que seu dispositivo foi configurado ou apagado pela última vez
+
+O Loupe é feito pela Mysk, uma equipe de pesquisa em segurança. Ele expõe a superfície de rastreamento do seu iPhone, para você decidir o que fazer a respeito.

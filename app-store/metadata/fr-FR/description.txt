@@ -1,0 +1,25 @@
+Vous êtes-vous déjà demandé comment les annonceurs vous reconnaissent d'une app ou d'un site à l'autre ? Le plus souvent, tout repose sur le fingerprinting : de petits détails ordinaires sur votre appareil, combinés jusqu'à ce que le mélange soit assez rare pour remonter jusqu'à vous.
+
+Loupe vous permet de voir ces détails par vous-même. L'app interroge les mêmes API publiques d'iOS que les apps tierces, vous montre les données brutes et explique pourquoi elles comptent.
+
+CE QUE VOUS POUVEZ EXPLORER
+Les traqueurs n'ont besoin ni de votre nom, ni de votre e-mail, ni de votre position pour vous reconnaître. Votre région, vos langues, vos réglages, votre stockage et vos capteurs forment un motif assez distinctif pour vous suivre en ligne. Loupe rassemble ces valeurs au même endroit pour que vous voyiez exactement ce que vous partagez.
+
+TROIS NIVEAUX D'ACCÈS
+Loupe classe chaque valeur selon le niveau d'accès qu'elle demande :
+
+- Passif : lisible par n'importe quelle app sans aucune invite, de votre fuseau horaire et vos langues de clavier à votre batterie et votre stockage.
+- Nécessite une autorisation : des valeurs qui déclenchent une invite iOS, comme la position, les contacts, les photos et le mouvement.
+- Avancé : des canaux détournés que permettent les API publiques, comme vérifier quelles apps vous avez installées, des tests graphiques dans un navigateur masqué, et une trace qui survit à la réinstallation de l'app.
+
+RIEN NE QUITTE VOTRE IPHONE
+Loupe lit tout sur votre appareil et le garde ici. Rien n'est envoyé, synchronisé ou partagé, sauf si vous l'exportez vous-même. Il n'y a ni comptes ni outils d'analyse.
+
+QUELQUES CHOSES À EXAMINER
+- La région, les langues et les réglages qui laissent deviner où vous vivez et voyagez
+- Les détails de votre écran, de vos graphismes, de votre stockage et de votre batterie
+- Le nom d'un accessoire jumelé, qui révèle souvent votre propre nom
+- Quelles apps populaires vous avez installées, déduites sans aucune autorisation
+- La seconde exacte où votre appareil a été configuré ou effacé pour la dernière fois
+
+Loupe est conçu par Mysk, une équipe de recherche en sécurité. L'app révèle la surface de pistage de votre iPhone, pour que vous puissiez décider quoi en faire.

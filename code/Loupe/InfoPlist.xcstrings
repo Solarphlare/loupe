@@ -1,0 +1,1098 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Loupe"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Loupe"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe"
+          }
+        }
+      }
+    },
+    "NSAppleMusicUsageDescription" : {
+      "comment" : "Apple Music / media library permission prompt. Shown when Loupe asks to read your music library to derive count and top-artist/genre signals.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe حالة اشتراكك في Apple Music بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe zählt Titel, Alben und Wiedergabelisten und zeigt deine Top-Genres und -Künstler. Audio wird nie abgespielt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe counts songs, albums, and playlists, and shows your top genres and artists. It never plays back audio."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe cuenta canciones, álbumes y listas de reproducción, y muestra tus géneros y artistas más escuchados. Nunca reproduce audio."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe compte les morceaux, albums et playlists, et affiche vos genres et artistes préférés. Aucun audio n'est lu."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、曲、アルバム、プレイリストの数を集計し、よく聴くジャンルやアーティストを表示します。オーディオを再生することはありません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta músicas, álbuns e playlists, e mostra seus gêneros e artistas favoritos. Nunca reproduz áudio."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta músicas, álbuns e listas de reprodução, e mostra os seus géneros e artistas favoritos. Nunca reproduz áudio."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe считает песни, альбомы и плейлисты и показывает твои любимые жанры и исполнителей. Музыка никогда не воспроизводится."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe şarkıları, albümleri ve çalma listelerini sayar, en çok dinlediğin türleri ve sanatçıları gösterir. Ses hiçbir zaman çalınmaz."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe рахує пісні, альбоми та плейлисти й показує твої улюблені жанри та виконавців. Музика ніколи не відтворюється."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会统计歌曲、专辑和播放列表，并显示你最常听的流派和艺人。它不会播放音频。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會統計歌曲、專輯和播放列表，並顯示你最常聽的曲風和藝人。它不會播放音訊。"
+          }
+        }
+      }
+    },
+    "NSBluetoothAlwaysUsageDescription" : {
+      "comment" : "Bluetooth permission prompt. Shown when Loupe runs a short Bluetooth LE scan to count nearby peripherals.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe أسماء أجهزة Bluetooth القريبة بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe führt einen fünfsekündigen Bluetooth-LE-Scan durch, um Geräte in der Nähe zu zählen. Es werden keine Kennungen gespeichert oder gesendet."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe runs a five-second Bluetooth LE scan to count nearby peripherals. No identifiers are stored or sent anywhere."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe ejecuta un escaneo Bluetooth LE de cinco segundos para contar los dispositivos cercanos. No se guarda ni se envía ningún identificador."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe effectue un scan Bluetooth LE de cinq secondes pour compter les appareils à proximité. Aucun identifiant n'est conservé ni envoyé."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、近くのデバイスをカウントするため、Bluetooth LEで5秒間のスキャンを行います。識別情報の保存や送信は一切ありません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe executa uma busca Bluetooth LE de cinco segundos para contar os dispositivos próximos. Nenhum identificador é armazenado ou enviado."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe executa uma pesquisa Bluetooth LE de cinco segundos para contar os periféricos próximos. Não são guardados nem enviados quaisquer identificadores."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe запускает пятисекундное сканирование Bluetooth LE, чтобы подсчитать устройства поблизости. Никакие идентификаторы не сохраняются и никуда не отправляются."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe yakındaki cihazları saymak için beş saniyelik bir Bluetooth LE taraması yapar. Hiçbir tanımlayıcı saklanmaz veya gönderilmez."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe запускає п'ятисекундне сканування Bluetooth LE, щоб порахувати пристрої поблизу. Жодні ідентифікатори не зберігаються й нікуди не надсилаються."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会进行一次五秒的蓝牙 LE 扫描，用于统计附近的设备数量。不会保存或发送任何标识符。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會進行一次五秒的藍牙 LE 掃描，用來統計附近的裝置數量。不會儲存或傳送任何識別碼。"
+          }
+        }
+      }
+    },
+    "NSCalendarsFullAccessUsageDescription" : {
+      "comment" : "Calendars (full access) permission prompt. Shown when Loupe asks to read calendars to count calendars, sources, and events in a 60-day window.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe حسابات التقويم الخاصة بك بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe zählt Kalender, Quellen und Termine in einem 60-Tage-Fenster. Termintitel und Notizen werden nicht gelesen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe counts calendars, sources and events in a 60-day window. It does not read event titles or notes."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe cuenta calendarios, fuentes y eventos en una ventana de 60 días. No lee los títulos ni las notas de los eventos."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe compte les calendriers, les sources et les événements sur une fenêtre de 60 jours. Il ne lit ni les titres ni les notes des événements."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、過去60日間のカレンダー、ソース、イベントの数を集計します。イベントのタイトルやメモは読み取りません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta calendários, fontes e eventos em uma janela de 60 dias. Ele não lê títulos ou notas dos eventos."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta calendários, origens e eventos numa janela de 60 dias. Não lê os títulos nem as notas dos eventos."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe считает календари, источники и события за 60 дней. Названия и заметки событий не читаются."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 60 günlük bir pencerede takvimleri, kaynakları ve etkinlikleri sayar. Etkinlik başlıklarını veya notları okumaz."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe рахує календарі, джерела та події за 60 днів. Назви й нотатки подій не читаються."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会在 60 天的时间窗口内统计日历、来源和事件数量。它不会读取事件标题或备注。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會在 60 天的時間範圍內統計行事曆、來源和事件數量。它不會讀取事件標題或備註。"
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription" : {
+      "comment" : "Camera permission prompt. Shown when Loupe enumerates camera hardware capabilities (lens type, zoom, FOV) — it never opens the sensor.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe المعرف الفريد للكاميرا بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe listet die Kamera-Hardware auf: Objektivtyp, Zoombereich, Bildwinkel. Der Kamerasensor wird nie geöffnet."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe enumerates camera hardware: lens type, zoom range, field of view. It never opens the camera sensor."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe enumera el hardware de la cámara: tipo de objetivo, rango de zoom y campo de visión. Nunca abre el sensor de la cámara."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe énumère le matériel de l'appareil photo : type d'objectif, plage de zoom, champ de vision. Il n'active jamais le capteur."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、カメラのハードウェア情報（レンズの種類、ズーム範囲、画角）を列挙します。カメラのセンサーを起動することはありません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe enumera os recursos de hardware da câmera: tipo de lente, faixa de zoom e campo de visão. Nunca abre o sensor da câmera."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe enumera as capacidades de hardware da câmara: tipo de objetiva, intervalo de zoom e campo de visão. Nunca abre o sensor da câmara."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe перечисляет характеристики камеры: тип объектива, диапазон зума и угол обзора. Сам сенсор камеры не включается."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe kamera donanımını listeler: objektif türü, zoom aralığı, görüş alanı. Kamera sensörünü hiçbir zaman açmaz."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe перераховує характеристики камери: тип об'єктива, діапазон зуму та кут огляду. Сам сенсор камери не вмикається."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会列出相机硬件信息：镜头类型、变焦范围、视角。它从不打开相机传感器。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會列出相機硬體資訊：鏡頭類型、變焦範圍、視角。它從不開啟相機感光元件。"
+          }
+        }
+      }
+    },
+    "NSContactsUsageDescription" : {
+      "comment" : "Contacts permission prompt. Shown when Loupe asks to read contacts to count entries and field-label diversity.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe حسابات جهات الاتصال الخاصة بك بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe zählt Kontakte und Feldbezeichnungen. Namen, Telefonnummern, E-Mail-Adressen und Postanschriften werden nicht angezeigt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe counts contacts and contact field labels. It does not display names, phone numbers, email addresses, or postal addresses."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe cuenta los contactos y las etiquetas de los campos de contacto. No muestra nombres, números de teléfono, direcciones de correo ni direcciones postales."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe compte les contacts et les libellés des champs de contact. Il n'affiche ni noms, ni numéros de téléphone, ni adresses e-mail, ni adresses postales."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、連絡先の件数とフィールドのラベルを集計します。氏名、電話番号、メールアドレス、住所は表示しません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta contatos e rótulos de campos de contato. Não mostra nomes, números de telefone, e-mails nem endereços postais."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta contactos e etiquetas de campos de contacto. Não mostra nomes, números de telefone, endereços de e-mail nem moradas."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe считает контакты и подписи их полей. Имена, телефоны, адреса электронной почты и почтовые адреса не показываются."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe kişileri ve kişi alan etiketlerini sayar. Adlar, telefon numaraları, e-posta adresleri veya posta adresleri gösterilmez."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe рахує контакти й підписи їхніх полів. Імена, телефони, адреси електронної пошти та поштові адреси не показуються."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会统计联系人数量和联系人字段标签。它不会显示姓名、电话号码、电子邮件或邮寄地址。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會統計聯絡資訊的數量和欄位標籤。它不會顯示姓名、電話號碼、電子郵件或郵寄地址。"
+          }
+        }
+      }
+    },
+    "NSLocalNetworkUsageDescription" : {
+      "comment" : "Local network permission prompt. Shown when Loupe runs short Bonjour discovery to count services on the local network.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe الأجهزة الموجودة على شبكتك المحلية بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe führt eine kurze Bonjour-Suche durch, um Dienste in deinem lokalen Netzwerk zu zählen. Dienstnamen werden nicht gespeichert."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe runs short Bonjour discovery to count services on your local network. Service names are not stored."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe ejecuta un breve descubrimiento Bonjour para contar los servicios de tu red local. Los nombres de los servicios no se guardan."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe effectue une courte découverte Bonjour pour compter les services sur votre réseau local. Les noms des services ne sont pas conservés."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、ローカルネットワーク上のサービスをカウントするため、Bonjourで短時間の検出を行います。サービス名は保存されません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe executa uma rápida descoberta Bonjour para contar os serviços na sua rede local. Os nomes dos serviços não são armazenados."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe executa uma breve descoberta Bonjour para contar os serviços na sua rede local. Os nomes dos serviços não são guardados."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe запускает короткий поиск через Bonjour, чтобы подсчитать сервисы в твоей локальной сети. Имена сервисов не сохраняются."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe yerel ağındaki hizmetleri saymak için kısa bir Bonjour keşfi yapar. Hizmet adları saklanmaz."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe запускає короткий пошук через Bonjour, щоб порахувати сервіси в твоїй локальній мережі. Назви сервісів не зберігаються."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会进行一次短暂的 Bonjour 探测，用于统计本地网络上的服务数量。服务名称不会被保存。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會進行一次短暫的 Bonjour 探查，用來統計本機網路上的服務數量。服務名稱不會被儲存。"
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "comment" : "Location (when-in-use) permission prompt. Shown when Loupe reads one location fix to demonstrate coordinate-based fingerprinting.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe موقعك بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe liest einmal deinen Standort, um koordinatenbasiertes Fingerprinting zu zeigen. Es wird nichts aufgezeichnet oder übertragen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe reads one location fix to demonstrate coordinate-based fingerprinting. Nothing is recorded or transmitted."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe lee una sola ubicación para mostrar el fingerprinting basado en coordenadas. No se registra ni se transmite nada."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe lit une seule position pour illustrer le fingerprinting par coordonnées. Rien n'est enregistré ni transmis."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、座標ベースのフィンガープリンティングを示すために位置情報を1回だけ取得します。記録も送信もされません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe lê uma única localização para mostrar o fingerprinting baseado em coordenadas. Nada é registrado ou transmitido."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe lê uma única localização para demonstrar o fingerprinting baseado em coordenadas. Nada é registado nem transmitido."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe запрашивает одну геолокацию, чтобы показать фингерпринтинг по координатам. Ничего не записывается и не передаётся."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe koordinat tabanlı parmak izini göstermek için tek bir konum okur. Hiçbir şey kaydedilmez veya iletilmez."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe запитує одну геолокацію, щоб показати фінгерпринтинг за координатами. Нічого не записується й не передається."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会读取一次位置信息，用于演示基于坐标的指纹识别。不会记录或传输任何数据。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會讀取一次位置資訊，用來示範以座標為基礎的指紋識別。不會記錄或傳送任何資料。"
+          }
+        }
+      }
+    },
+    "NSMicrophoneUsageDescription" : {
+      "comment" : "Microphone permission prompt. Shown when Loupe reads microphone route information and data sources — no audio is recorded.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe خصائص الميكروفون بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe liest Routing-Informationen und Datenquellen des Mikrofons. Es werden nie Audios aufgenommen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe reads microphone route information and data sources. It never records audio."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe lee información de enrutamiento y fuentes de datos del micrófono. Nunca graba audio."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe lit les informations de routage et les sources de données du micro. Il n'enregistre jamais d'audio."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、マイクのルーティング情報とデータソースを読み取ります。音声を録音することはありません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe lê informações de roteamento do microfone e suas fontes de dados. Nunca grava áudio."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe lê informação de encaminhamento do microfone e as suas origens de dados. Nunca grava áudio."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe читает данные о маршрутизации микрофона и его источниках. Аудио никогда не записывается."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe mikrofon yönlendirme bilgilerini ve veri kaynaklarını okur. Ses hiçbir zaman kaydedilmez."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe читає дані про маршрутизацію мікрофона та його джерела. Аудіо ніколи не записується."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会读取麦克风的路由信息和数据源。它从不录制音频。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會讀取麥克風的路由資訊和資料來源。它從不錄製音訊。"
+          }
+        }
+      }
+    },
+    "NSMotionUsageDescription" : {
+      "comment" : "Motion & Fitness permission prompt. Shown when Loupe samples motion sensors and reads today's pedometer totals.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe بيانات الحركة بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe liest Bewegungssensoren und die heutigen Schrittwerte aus, um Verhaltenssignale zu zeigen. Es wird nichts gesendet."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe samples motion sensors and reads today's pedometer totals to show behavioral signals. Nothing is sent anywhere."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe toma muestras de los sensores de movimiento y lee los totales del podómetro de hoy para mostrar señales de comportamiento. No se envía nada."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe échantillonne les capteurs de mouvement et lit les totaux du podomètre du jour pour montrer des signaux comportementaux. Rien n'est envoyé."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、行動シグナルを示すためにモーションセンサーをサンプリングし、当日の歩数計データを読み取ります。データはどこにも送信されません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe amostra sensores de movimento e lê os totais do pedômetro de hoje para mostrar sinais comportamentais. Nada é enviado para lugar nenhum."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe amostra os sensores de movimento e lê os totais do podómetro de hoje para mostrar sinais comportamentais. Nada é enviado para qualquer lado."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe снимает показания датчиков движения и читает сегодняшние данные шагомера, чтобы показать поведенческие сигналы. Ничего никуда не отправляется."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe davranışsal sinyalleri göstermek için hareket sensörlerini örnekler ve bugünün adımölçer verilerini okur. Hiçbir şey gönderilmez."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe знімає показники датчиків руху й читає сьогоднішні дані крокоміра, щоб показати поведінкові сигнали. Нічого нікуди не надсилається."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会采样运动传感器，并读取当天的计步器数据，用于展示行为信号。不会向外发送任何数据。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會取樣動作感測器，並讀取當天的計步器資料，用來呈現行為訊號。不會向外傳送任何資料。"
+          }
+        }
+      }
+    },
+    "NSPhotoLibraryUsageDescription" : {
+      "comment" : "Photos permission prompt. Shown when Loupe counts photo library assets and collections — it never reads image data.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe بيانات مكتبة الصور الخاصة بك بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe zählt Objekte und Sammlungen in deiner Fotomediathek. Bilddaten werden nie gelesen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe counts photo library assets and collections. It never reads image data."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe cuenta los elementos y las colecciones de tu fototeca. Nunca lee los datos de las imágenes."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe compte les éléments et les collections de votre photothèque. Il ne lit jamais les données d'image."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、写真ライブラリのアイテム数とコレクション数を集計します。画像データを読み取ることはありません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta os itens e as coleções da sua fototeca. Nunca lê os dados das imagens."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta os itens e as coleções da sua biblioteca de fotografias. Nunca lê os dados das imagens."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe считает объекты и альбомы в твоей медиатеке Фото. Сами изображения не читаются."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe fotoğraf kütüphanesindeki öğeleri ve koleksiyonları sayar. Görüntü verilerini hiçbir zaman okumaz."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe рахує об'єкти й альбоми у твоїй медіатеці Фото. Самі зображення не читаються."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会统计照片图库中的项目和合集数量。它从不读取图像数据。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會統計照片圖庫中的項目和相簿數量。它從不讀取影像資料。"
+          }
+        }
+      }
+    },
+    "NSRemindersFullAccessUsageDescription" : {
+      "comment" : "Reminders (full access) permission prompt. Shown when Loupe counts reminder lists, list titles, and incomplete reminders.",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ Loupe حسابات التذكيرات الخاصة بك بصمت."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe zählt Erinnerungslisten, zeigt Listentitel und zählt offene Erinnerungen. Einzelne Erinnerungstitel und Notizen werden nicht angezeigt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe counts reminder lists, shows list titles, and counts incomplete reminders. It does not display reminder titles or notes."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe cuenta las listas de recordatorios, muestra sus títulos y cuenta los recordatorios sin completar. No muestra ni los títulos ni las notas de los recordatorios."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe compte les listes de rappels, affiche leurs titres et compte les rappels non terminés. Il n'affiche ni les titres ni les notes des rappels."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupeは、リマインダーのリスト数を集計し、リスト名を表示し、未完了のリマインダー数を集計します。リマインダーのタイトルやメモは表示しません。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta listas de lembretes, mostra os títulos das listas e conta os lembretes não concluídos. Não mostra títulos nem notas dos lembretes."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Loupe conta listas de lembretes, mostra os títulos das listas e conta os lembretes por concluir. Não mostra títulos nem notas dos lembretes."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe считает списки напоминаний, показывает их названия и считает невыполненные напоминания. Названия и заметки самих напоминаний не показываются."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe anımsatıcı listelerini sayar, liste başlıklarını gösterir ve tamamlanmamış anımsatıcıları sayar. Anımsatıcı başlıklarını veya notları göstermez."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe рахує списки нагадувань, показує їхні назви та рахує невиконані нагадування. Назви й нотатки самих нагадувань не показуються."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 会统计提醒事项列表、显示列表名称，并统计未完成的提醒事项数量。它不会显示提醒事项的标题或备注。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loupe 會統計提醒事項列表、顯示列表名稱，並統計未完成的提醒事項數量。它不會顯示提醒事項的標題或備註。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

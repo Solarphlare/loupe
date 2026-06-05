@@ -1,0 +1,11 @@
+# fastlane Appfile — identifies the app and account for every lane.
+# Docs: https://docs.fastlane.tools/advanced/#appfile
+
+app_identifier("co.mysk.loupe") # Loupe's bundle identifier
+
+# The following are only needed if you authenticate with your Apple ID instead
+# of an App Store Connect API key, or if your account belongs to multiple teams.
+# API-key auth (see fastlane/Fastfile) does not require any of these.
+apple_id(ENV["FASTLANE_APPLE_ID"]) if ENV["FASTLANE_APPLE_ID"]
+itc_team_id(ENV["FASTLANE_ITC_TEAM_ID"]) if ENV["FASTLANE_ITC_TEAM_ID"]
+team_id(ENV["FASTLANE_TEAM_ID"]) if ENV["FASTLANE_TEAM_ID"]

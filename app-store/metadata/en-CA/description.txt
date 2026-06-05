@@ -1,0 +1,25 @@
+Ever wondered how advertisers recognize you across apps and websites? It usually comes down to fingerprinting: small, ordinary details about your device, combined until the mix is rare enough to point back to you.
+
+Loupe lets you see those details yourself. It reads the same public iOS APIs that third-party apps use, showing you the raw data and explaining why it matters.
+
+WHAT YOU CAN EXPLORE
+Trackers don't need your name, email, or location to recognize you. Your region, languages, settings, storage, and sensors create a pattern distinctive enough to follow you online. Loupe puts these readings in one place so you can see exactly what you're sharing.
+
+THREE LEVELS OF ACCESS
+Loupe sorts every reading by how much access it takes:
+
+- Passive: readable by any app with no prompt at all, from your time zone and keyboard languages to your battery and storage.
+- Needs permission: readings that trigger an iOS prompt, like location, contacts, photos, and motion.
+- Advanced: side channels that public APIs allow, like checking which apps you have installed, graphics checks in a hidden browser, and a record that survives reinstalling the app.
+
+NOTHING LEAVES YOUR IPHONE
+Loupe reads everything on your device and keeps it there. Nothing is uploaded, synced, or shared unless you export it yourself. There are no accounts and no analytics.
+
+A FEW THINGS YOU CAN LOOK AT
+- The region, languages, and settings that hint at where you live and travel
+- Your screen, graphics, storage, and battery details
+- The name on a paired accessory, which often gives away your own name
+- Which popular apps you have installed, worked out without any permission
+- The exact second your device was set up or last erased
+
+Loupe is built by Mysk, a security research team. It exposes the tracking surface of your iPhone, so you can decide what to do about it.

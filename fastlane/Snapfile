@@ -1,0 +1,50 @@
+# fastlane Snapfile — configuration for the `snapshot` action.
+# Docs: https://docs.fastlane.tools/actions/snapshot/
+#
+# Capture is driven by the LoupeUITests target, which launches the app with
+# `-LoupeMockData` so every screen shows the fixed persona from MockData.swift
+# instead of live device readings.
+#
+# Usage:
+#   bundle exec fastlane screenshots
+
+# The Xcode project lives under ./code, and the shared "Loupe" scheme runs the
+# LoupeUITests target in its Test action.
+project("./code/Loupe.xcodeproj")
+scheme("Loupe")
+
+# Required App Store sizes: 6.9" iPhone (portrait) and iPad (landscape).
+# The iPad is captured in landscape — the UI test rotates the device for the
+# iPad idiom (see LoupeUITests). Adjust the exact simulator names to match the
+# runtimes installed on your machine (see `xcrun simctl list devicetypes`).
+devices([
+  "iPhone 17 Pro Max",
+  "iPad Pro 11-inch (M5)"
+])
+
+# Pin the simulator runtime so the iPad mini resolves to iOS 26, not an older
+# runtime that also ships an "iPad mini (A17 Pro)" device.
+ios_version("26.5")
+
+# One folder per language, named to match the App Store locale codes used under
+# app-store/metadata so the shots line up with the listing localizations.
+languages([
+  "en-US"
+])
+
+# Generated PNGs land here (gitignored). Run the upload lane to push them.
+output_directory("./fastlane/screenshots")
+
+# Start each run from a clean slate.
+clear_previous_screenshots(true)
+
+# Clean 9:41 status bar with full battery and signal.
+override_status_bar(true)
+
+# The mock data is identical across runs, so a single simulator at a time keeps
+# logs readable and avoids flaky parallel launches. Flip to true to speed up.
+concurrent_simulators(false)
+
+# Keep going through the full matrix even if one device/language fails.
+stop_after_first_error(false)
+number_of_retries(1)

@@ -1,0 +1,25 @@
+Reklamcıların seni uygulamalar ve web siteleri arasında nasıl tanıdığını hiç merak ettin mi? Genellikle olay parmak izine dayanır: cihazın hakkındaki küçük, sıradan ayrıntılar bir araya gelir ve bu bileşim sana geri işaret edecek kadar nadir hale gelir.
+
+Loupe bu ayrıntıları senin gözünle görmenizi sağlar. Üçüncü taraf uygulamaların kullandığı aynı genel iOS API'lerini okur, ham veriyi gösterir ve neden önemli olduğunu açıklar.
+
+NELERI KEŞFEDEBİLİRSİN
+İzleyicilerin seni tanımak için adına, e-postana ya da konumuna ihtiyacı yok. Bölgen, dillerin, ayarların, depolama alanın ve sensörlerin seni çevrimiçi takip etmeye yetecek kadar belirgin bir desen oluşturur. Loupe bu değerleri tek bir yerde toplar, böylece tam olarak neyi paylaştığını görebilirsin.
+
+ÜÇ ERİŞİM DÜZEYİ
+Loupe her değeri gerektirdiği erişim düzeyine göre sıralar:
+
+- Pasif: herhangi bir uygulama tarafından hiçbir soru sorulmadan okunabilir; saat diliminden ve klavye dillerinden batarya ve depolama alanına kadar.
+- İzin gerektirir: konum, kişiler, fotoğraflar ve hareket gibi bir iOS sorgusu tetikleyen değerler.
+- İleri düzey: genel API'lerin izin verdiği yan kanallar; hangi uygulamaların yüklü olduğunu kontrol etmek, gizli bir tarayıcıda grafik denetimleri ve uygulamayı yeniden yüklemeye rağmen kalan bir kayıt gibi.
+
+HİÇBİR ŞEY iPHONE'UNDAN ÇIKMAZ
+Loupe her şeyi cihazında okur ve orada tutar. Sen kendin dışa aktarmadıkça hiçbir şey yüklenmez, eşitlenmez veya paylaşılmaz. Hesap yok, analiz yok.
+
+BAKABİLECEĞİN BİRKAÇ ŞEY
+- Nerede yaşadığına ve seyahat ettiğine dair ipucu veren bölge, diller ve ayarlar
+- Ekran, grafik, depolama ve batarya ayrıntıların
+- Eşlenmiş bir aksesuarın adı; bu genellikle senin adını ele verir
+- Hiçbir izin gerekmeden tespit edilen popüler yüklü uygulamalar
+- Cihazının kurulduğu veya en son sıfırlandığı tam saniye
+
+Loupe, bir güvenlik araştırma ekibi olan Mysk tarafından geliştirilmiştir. iPhone'unun izleme yüzeyini açığa çıkarır, böylece ne yapacağına sen karar verebilirsin.

@@ -1,0 +1,44 @@
+# xcode noise
+
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective 
+*.perspectivev3
+*.pyc 
+*~.nib/
+build/
+.build/
+Build/
+target/
+*.orig
+xcuserdata/
+xcshareddata/
+.swiftpm
+Podfile.lock
+# osx noise
+.DS_Store
+Pods/
+*.framework
+*.framework/
+#Test resources
+DerivedData/
+
+# Intellij noise
+/code/**/.idea/
+/code/**/*.iml
+
+# Local agent scratch (session handoffs, transient notes)
+.claude/
+
+# local signing config (real team id + bundle ids, never published)
+**/Signing.local.xcconfig
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/test_output/
+fastlane/screenshots/
+fastlane/.env
+*.p8
+.env

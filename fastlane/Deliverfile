@@ -1,0 +1,22 @@
+# fastlane Deliverfile — shared configuration for the `deliver` action.
+# Docs: https://docs.fastlane.tools/actions/deliver/
+
+app_identifier("co.mysk.loupe")
+
+# This repo keeps its App Store metadata outside fastlane's default
+# `fastlane/metadata` directory.
+metadata_path("./app-store/metadata")
+
+# Push text metadata only — no .ipa build and no screenshots (for now).
+skip_binary_upload(true)
+skip_screenshots(true)
+skip_metadata(false)
+
+# Save the metadata to the editable App Store version without submitting it
+# for review or releasing automatically. Flip these once you're ready to ship.
+submit_for_review(false)
+automatic_release(false)
+run_precheck_before_submit(false)
+
+# Loupe has no in-app purchases.
+precheck_include_in_app_purchases(false)

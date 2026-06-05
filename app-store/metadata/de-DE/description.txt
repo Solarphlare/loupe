@@ -1,0 +1,24 @@
+Hast du dich schon mal gefragt, wie Werbetreibende dich über Apps und Websites hinweg wiedererkennen? Meist steckt Fingerprinting dahinter: kleine, alltägliche Details über dein Gerät, die - miteinander kombiniert - auf dich zurückverweisen.
+
+Mit Loupe kannst du diese Details selbst einsehen. Loupe liest dieselben, von Dritt-Apps genutzten öffentlichen iOS-APIs, zeigt dir die Rohdaten und erklärt, warum sie für das Fingerprinting wichtig sind.
+
+WAS DU ERKUNDEN KANNST
+Tracker brauchen weder deinen Namen, deine E-Mail-Adresse noch deinen Standort, um dich wiederzuerkennen. Deine Region, Sprachen, Einstellungen, dein Speicher und deine Sensoren ergeben ein Muster, das eindeutig genug ist, um dir online zu folgen. Loupe bündelt diese Werte an einem Ort. So siehst ganz genau, was du preisgibst.
+
+DREI STUFEN DES ZUGRIFFS
+Loupe sortiert jeden Wert danach, wie viel Zugriff er erfordert:
+- Passiv: von jeder App ganz ohne Abfrage lesbar – von deiner Zeitzone und deinen Tastatursprachen bis zu Akku und Speicher.
+- Erlaubnis erforderlich: Werte, die eine iOS-Abfrage auslösen, z. B. Standort, Kontakte, Fotos und Bewegung.
+- Fortgeschritten: Seitenkanäle, die öffentliche APIs erlauben, um beispielsweise zu prüfen, welche Apps du installiert hast oder die Speicherung von Daten, die nach der Neuinstallation einer App immer noch verfügbar sind.
+
+NICHTS VERLÄSST DEIN IPHONE
+Loupe liest alles auf deinem Gerät und behält es dort. Nichts wird hochgeladen, synchronisiert oder geteilt. Du kannst jedoch für dich selbst einen Loupe-Bericht exportieren.
+
+EIN PAAR DINGE, DIE DU DIR ANSEHEN KANNST
+- Die Region, Sprachen und Einstellungen, die andeuten, wo du lebst und wohin du reist
+- Details zu Bildschirm, Grafik, Speicher und Akku
+- Den Namen eines gekoppelten Zubehörs, der oft deinen eigenen Namen verrät
+- Welche beliebten Apps du installiert hast – ermittelt ganz ohne Erlaubnis
+- Die genaue Sekunde, in der dein Gerät eingerichtet oder zuletzt gelöscht wurde
+
+Loupe wurde von Mysk entwickelt, einem Team für Sicherheitsforschung. Es legt die Tracking-Oberfläche deines iPhones offen. So kannst du entscheiden, welche Apps du nutzt und welche Erlaubnis du diesen erteilst.

@@ -1,0 +1,1 @@
+huella,rastreo,dispositivo,identificador,IDFA,metadatos,permisos,sensores,seguridad,perfilado,datos

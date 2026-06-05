@@ -1,0 +1,25 @@
+¿Te has preguntado alguna vez cómo te reconocen los anunciantes en las apps y los sitios web? Casi siempre se reduce al fingerprinting: pequeños detalles corrientes de tu dispositivo, combinados hasta que la mezcla es tan poco común que apunta de vuelta a ti.
+
+Loupe te permite ver esos detalles por ti mismo. Lee las mismas APIs públicas de iOS que usan las apps de terceros, mostrándote los datos en bruto y explicando por qué importan.
+
+LO QUE PUEDES EXPLORAR
+Los rastreadores no necesitan tu nombre, tu correo electrónico ni tu ubicación para reconocerte. Tu región, tus idiomas, tus ajustes, tu almacenamiento y tus sensores crean un patrón lo bastante distintivo como para seguirte en internet. Loupe reúne estas lecturas en un solo lugar para que veas exactamente lo que estás compartiendo.
+
+TRES NIVELES DE ACCESO
+Loupe ordena cada lectura según cuánto acceso requiere:
+
+- Pasivo: cualquier app puede leerlo sin ninguna solicitud, desde tu zona horaria y los idiomas del teclado hasta tu batería y tu almacenamiento.
+- Requiere permiso: lecturas que activan una solicitud de iOS, como la ubicación, los contactos, las fotos y el movimiento.
+- Avanzado: canales laterales que permiten las APIs públicas, como detectar qué apps tienes instaladas, pruebas de gráficos en un navegador oculto y un registro que sobrevive a la reinstalación de la app.
+
+NADA SALE DE TU IPHONE
+Loupe lee todo en tu dispositivo y lo conserva ahí. No se sube, sincroniza ni comparte nada, salvo que lo exportes tú mismo. No hay cuentas ni analíticas.
+
+ALGUNAS COSAS QUE PUEDES VER
+- La región, los idiomas y los ajustes que insinúan dónde vives y viajas
+- Los detalles de tu pantalla, gráficos, almacenamiento y batería
+- El nombre de un accesorio emparejado, que a menudo revela tu propio nombre
+- Qué apps populares tienes instaladas, deducido sin ningún permiso
+- El segundo exacto en que se configuró tu dispositivo o se borró por última vez
+
+Loupe está desarrollada por Mysk, un equipo de investigación en seguridad. Expone la superficie de rastreo de tu iPhone para que puedas decidir qué hacer al respecto.

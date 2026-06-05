@@ -1,0 +1,56 @@
+# fastlane Fastfile — lanes for Loupe.
+# Docs: https://docs.fastlane.tools
+#
+# Common usage:
+#   bundle exec fastlane metadata             # preview, then upload App Store text metadata
+#   bundle exec fastlane metadata force:true  # upload without the interactive preview (CI)
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Upload App Store text metadata (name, subtitle, keywords, promo text, description) to App Store Connect."
+  lane :metadata do |options|
+    api_key
+
+    # `force: false` (default) renders an HTML preview and asks for confirmation
+    # before anything is sent. Pass `force:true` for non-interactive / CI runs.
+    deliver(force: options.fetch(:force, false))
+  end
+
+  desc "Capture localized App Store screenshots on the simulator (reads fastlane/Snapfile)."
+  lane :screenshots do
+    # Drives the LoupeUITests target, which launches the app with -LoupeMockData
+    # so every screen shows the fixed MockData persona. No App Store Connect
+    # credentials are needed — this runs entirely on local simulators.
+    capture_screenshots
+  end
+
+  desc "Upload the captured screenshots in fastlane/screenshots to App Store Connect."
+  lane :screenshots_upload do
+    api_key
+
+    deliver(
+      skip_binary_upload: true,
+      skip_metadata: true,
+      skip_screenshots: false,
+      screenshots_path: "./fastlane/screenshots",
+      overwrite_screenshots: true,
+      submit_for_review: false,
+      run_precheck_before_submit: false
+    )
+  end
+
+  # Authenticate with an App Store Connect API key (recommended — works with 2FA
+  # and needs no Apple ID password). Create a key under:
+  #   App Store Connect -> Users and Access -> Integrations -> App Store Connect API
+  # Then set ASC_KEY_ID, ASC_ISSUER_ID and ASC_KEY_FILEPATH (see fastlane/.env.example).
+  private_lane :api_key do
+    app_store_connect_api_key(
+      key_id: ENV.fetch("ASC_KEY_ID"),
+      issuer_id: ENV.fetch("ASC_ISSUER_ID"),
+      key_filepath: ENV.fetch("ASC_KEY_FILEPATH"),
+      duration: 1200,
+      in_house: false
+    )
+  end
+end

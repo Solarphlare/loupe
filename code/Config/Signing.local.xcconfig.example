@@ -1,0 +1,9 @@
+// Copy this file to Signing.local.xcconfig and fill in your own values.
+// Signing.local.xcconfig is gitignored and never published.
+//
+// DEVELOPMENT_TEAM is your 10-character Apple Developer Team ID, found at
+// https://developer.apple.com/account under Membership details.
+
+DEVELOPMENT_TEAM = XXXXXXXXXX
+LOUPE_BUNDLE_ID = com.example.loupe
+LOUPE_UITESTS_BUNDLE_ID = com.example.loupe.uitests

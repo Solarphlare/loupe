@@ -1,0 +1,1 @@
+Uygulamaların sessizce okuyabildiği verileri gösteren bir rehber. Nelerin açığa çıktığını gör ve ne yapacağına karar ver.

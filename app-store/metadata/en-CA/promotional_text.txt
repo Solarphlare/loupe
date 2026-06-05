@@ -1,0 +1,1 @@
+A guided tour of the data any app can quietly read about you. Explore what's exposed, see why it's identifying, and decide what to do about it.

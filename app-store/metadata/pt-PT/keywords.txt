@@ -1,0 +1,1 @@
+fingerprint,rastreio,dispositivo,identificador,IDFA,metadados,permissões,sensores,segurança,dados

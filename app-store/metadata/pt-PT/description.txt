@@ -1,0 +1,25 @@
+Já se perguntou como é que os anunciantes o reconhecem em apps e sites? Quase sempre resume-se ao fingerprinting: pequenos pormenores comuns do seu dispositivo, combinados até a mistura ser rara o suficiente para apontar de volta para si.
+
+O Loupe deixa-o ver esses pormenores por si próprio. Lê as mesmas APIs públicas do iOS que as apps de terceiros usam, mostrando-lhe os dados em bruto e explicando porque é que importam.
+
+O QUE PODE EXPLORAR
+Os rastreadores não precisam do seu nome, do seu e-mail nem da sua localização para o reconhecer. A sua região, os idiomas, as definições, o armazenamento e os sensores criam um padrão suficientemente distinto para o seguir online. O Loupe reúne estas leituras num só lugar, para que veja exatamente o que está a partilhar.
+
+TRÊS NÍVEIS DE ACESSO
+O Loupe organiza cada leitura pelo nível de acesso que exige:
+
+- Passivo: legível por qualquer app sem qualquer pedido, do seu fuso horário e idiomas de teclado à bateria e ao armazenamento.
+- Requer permissão: leituras que despoletam um pedido do iOS, como localização, contactos, fotografias e movimento.
+- Avançado: canais laterais que as APIs públicas permitem, como verificar que apps tem instaladas, testes gráficos num navegador oculto e um registo que sobrevive à reinstalação da app.
+
+NADA SAI DO SEU IPHONE
+O Loupe lê tudo no seu dispositivo e guarda-o aí. Nada é carregado, sincronizado ou partilhado, a menos que o exporte. Não há contas nem análises de utilização.
+
+ALGUMAS COISAS QUE PODE VER
+- A região, os idiomas e as definições que sugerem onde vive e viaja
+- Os detalhes do ecrã, dos gráficos, do armazenamento e da bateria
+- O nome de um acessório emparelhado, que muitas vezes revela o seu próprio nome
+- Que apps populares tem instaladas, descobertas sem qualquer permissão
+- O segundo exato em que o seu dispositivo foi configurado ou apagado pela última vez
+
+O Loupe é criado pela Mysk, uma equipa de investigação em segurança. Expõe a superfície de rastreio do seu iPhone, para que possa decidir o que fazer.

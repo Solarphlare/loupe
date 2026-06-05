@@ -1,0 +1,14 @@
+// Public, checked-in signing defaults for Loupe.
+//
+// Real values live in Signing.local.xcconfig, which is gitignored and never
+// published. Copy Signing.local.xcconfig.example to Signing.local.xcconfig and
+// fill in your own Apple Developer team and bundle identifiers.
+//
+// The optional include below (note the "?") is a no-op when the local file is
+// absent, so the project still opens and configures with these placeholders.
+
+DEVELOPMENT_TEAM =
+LOUPE_BUNDLE_ID = com.example.loupe
+LOUPE_UITESTS_BUNDLE_ID = com.example.loupe.uitests
+
+#include? "Signing.local.xcconfig"

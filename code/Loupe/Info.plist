@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>whatsapp</string>
+		<string>tg</string>
+		<string>sgnl</string>
+		<string>fb</string>
+		<string>fb-messenger</string>
+		<string>instagram</string>
+		<string>barcelona</string>
+		<string>twitter</string>
+		<string>tiktok</string>
+		<string>snapchat</string>
+		<string>linkedin</string>
+		<string>reddit</string>
+		<string>discord</string>
+		<string>slack</string>
+		<string>zoomus</string>
+		<string>msteams</string>
+		<string>tesla</string>
+		<string>youtube</string>
+		<string>spotify</string>
+		<string>nflx</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
+		<string>uber</string>
+		<string>duolingo</string>
+		<string>tinder</string>
+		<string>deliveroo</string>
+		<string>googlechrome</string>
+		<string>firefox</string>
+		<string>microsoft-edge</string>
+		<string>ddgQuickLink</string>
+		<string>googlegmail</string>
+		<string>ms-outlook</string>
+		<string>protonmail</string>
+		<string>paypal</string>
+		<string>onepassword</string>
+		<string>lastpass</string>
+		<string>github</string>
+		<string>pinterest</string>
+		<string>com.amazon.mobile.shopping</string>
+		<string>bumble</string>
+		<string>hinge</string>
+		<string>grindr</string>
+		<string>venmo</string>
+		<string>squarecash</string>
+		<string>lyft</string>
+		<string>doordash</string>
+		<string>twitch</string>
+		<string>steam</string>
+		<string>coinbase</string>
+		<string>protonvpn</string>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Loupe reads music library counts only. Nothing is played back.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Loupe runs a brief Bluetooth LE scan to count nearby devices.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_airplay._tcp</string>
+		<string>_raop._tcp</string>
+		<string>_companion-link._tcp</string>
+		<string>_homekit._tcp</string>
+		<string>_airdrop._tcp</string>
+		<string>_apple-mobdev2._tcp</string>
+		<string>_remotepairing._tcp</string>
+		<string>_googlecast._tcp</string>
+		<string>_spotify-connect._tcp</string>
+		<string>_sonos._tcp</string>
+		<string>_roku-rcp._tcp</string>
+		<string>_daap._tcp</string>
+		<string>_dpap._tcp</string>
+		<string>_printer._tcp</string>
+		<string>_ipp._tcp</string>
+		<string>_ipps._tcp</string>
+		<string>_pdl-datastream._tcp</string>
+		<string>_scanner._tcp</string>
+		<string>_uscan._tcp</string>
+		<string>_http._tcp</string>
+		<string>_https._tcp</string>
+		<string>_smb._tcp</string>
+		<string>_afpovertcp._tcp</string>
+		<string>_nfs._tcp</string>
+		<string>_ftp._tcp</string>
+		<string>_sftp-ssh._tcp</string>
+		<string>_webdav._tcp</string>
+		<string>_webdavs._tcp</string>
+		<string>_ssh._tcp</string>
+		<string>_rfb._tcp</string>
+		<string>_rdp._tcp</string>
+		<string>_net-assistant._udp</string>
+		<string>_hap._tcp</string>
+		<string>_matter._tcp</string>
+		<string>_hue._tcp</string>
+		<string>_mqtt._tcp</string>
+		<string>_coap._udp</string>
+		<string>_wemo._tcp</string>
+		<string>_presence._tcp</string>
+		<string>_sip._tcp</string>
+		<string>_h323._tcp</string>
+		<string>_device-info._tcp</string>
+		<string>_sleep-proxy._udp</string>
+		<string>_dns-sd._udp</string>
+		<string>_loupe-probe._tcp</string>
+	</array>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Loupe counts calendars and events. Titles and notes are not read.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Loupe reads camera capabilities. The sensor is never opened.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Loupe counts contacts only. Names and details are not displayed.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Loupe runs a brief Bonjour discovery to count local services.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Loupe reads one location fix for the on-device demo.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Loupe reads microphone routing info. No audio is recorded.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Loupe samples motion sensors briefly. Nothing is sent anywhere.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Loupe counts photo library items. Image data is never read.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Loupe counts reminder lists only. Titles and notes are not displayed.</string>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+confidentialité,empreinte,pistage,identifiant,IDFA,capteurs,profilage,appareil,sécurité,données

@@ -1,0 +1,1 @@
+Datenschutz,Fingerprinting,Tracking,Tracker,Geräteinfo,Kennung,IDFA,Metadaten,Sensoren,Profiling
