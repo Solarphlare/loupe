@@ -196,7 +196,7 @@ private struct IntroCardView: View {
         .frame(maxWidth: .infinity, alignment: .leading)
         .background(
             RoundedRectangle(cornerRadius: 20, style: .continuous)
-                .fill(.regularMaterial)
+                .fill(Color(uiColor: .secondarySystemGroupedBackground))
         )
         .overlay(
             RoundedRectangle(cornerRadius: 20, style: .continuous)
